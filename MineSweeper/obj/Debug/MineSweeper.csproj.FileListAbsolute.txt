@@ -1,0 +1,50 @@
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\alber\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\tasya\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Albert\Kuliah\Semester 2\Alpro 2\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\tasya\Downloads\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\tasya\Desktop\Proyek\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
